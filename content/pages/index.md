@@ -52,7 +52,7 @@ sections:
     content: Start achieving your goals today!
     actions:
       - label: Contact us
-        url: 'mailto:'
+        url: 'mailto:john'
         style: primary
     actions_width: fourty
     align: center
