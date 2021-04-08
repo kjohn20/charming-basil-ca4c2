@@ -5,7 +5,7 @@ sections:
     title: We Develop Software and Consumer Electronics
     subtitle: We believe Innovation shouldn't cost the consumer
     actions:
-      - label: Contact US
+      - label: Contact uS
         url: 'mailto:john@buyfor.cheap'
         style: primary
     image: images/hero.svg
