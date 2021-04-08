@@ -30,7 +30,7 @@
             },
             {
                 "label": "Log in",
-                "url": "/thank-you",
+                "url": "#",
                 "style": "secondary"
             },
             {
