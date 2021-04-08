@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: We Develop Software and Consumer Electronics
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
