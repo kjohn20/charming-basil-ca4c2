@@ -6,7 +6,7 @@ sections:
     subtitle: We believe Innovation shouldn't cost the consumer
     actions:
       - label: Contact US
-        url: 'mailto:john'
+        url: 'mailto:john@'
         style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
