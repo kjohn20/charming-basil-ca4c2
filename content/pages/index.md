@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We Develop Software and Consumer Electronics
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: We believe Innovation shouldn't cost the consumer
     actions:
       - label: Try for free
         url: /pricing
