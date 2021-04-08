@@ -51,7 +51,7 @@ sections:
     title: Want to Work With US
     content: Start achieving your goals today!
     actions:
-      - label: Try for free
+      - label: Contact u
         url: /thank-you
         style: primary
     actions_width: fourty
