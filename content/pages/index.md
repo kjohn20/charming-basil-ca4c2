@@ -48,7 +48,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to get started?
+    title: Want to Work With US
     content: Start achieving your goals today!
     actions:
       - label: Try for free
