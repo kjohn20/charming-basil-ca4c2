@@ -151,7 +151,8 @@ seo:
       value: Gasheer LLC
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: |
+        The preview of the Gasheer Company Coming into existence.
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
