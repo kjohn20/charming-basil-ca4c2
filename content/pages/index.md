@@ -142,7 +142,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Gasheer LLC
-  description: The preview of the Startup theme
+  description: The preview of the Gasheer Company Coming into existence.
   extra:
     - name: 'og:type'
       value: website
