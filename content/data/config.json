@@ -75,11 +75,6 @@
                 "label": "Tips",
                 "url": "/blog/category/tips",
                 "style": "link"
-            },
-            {
-                "label": "Use Cases",
-                "url": "/blog/category/use-cases",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
