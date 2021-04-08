@@ -20,12 +20,6 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: features_section
-    title: Why Choose YourGoal?
-    features: []
-    feature_padding_vert: large
-    align: center
-    background_color: none
-  - type: features_section
     features:
       - title: >-
           “I love how lightweight and easy it is to use. It intuitively builds
