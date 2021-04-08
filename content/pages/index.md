@@ -148,7 +148,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: Gasheer LLC
       keyName: property
     - name: 'og:description'
       value: The preview of the Startup theme
