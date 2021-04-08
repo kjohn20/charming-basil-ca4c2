@@ -5,7 +5,7 @@ sections:
     title: We Develop Software and Consumer Electronics
     subtitle: We believe Innovation shouldn't cost the consumer
     actions:
-      - label: Try for free
+      - label: Contact
         url: /pricing
         style: primary
     image: images/hero.svg
