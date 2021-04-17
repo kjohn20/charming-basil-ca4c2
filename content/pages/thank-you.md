@@ -3,9 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Thank You!
-    subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+    subtitle: Thank you for using this Site. We hope you like it. Have a great day!
     actions:
       - label: Back to homepage
         url: /
