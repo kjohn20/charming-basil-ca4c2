@@ -85,7 +85,7 @@
                 "no_follow": false,
                 "type": "action",
                 "label": "BuyForCheap",
-                "url": "buyfor.cheap"
+                "url": "buyfor.cheapd"
             }
         ],
         "has_tertiary_nav": true,
