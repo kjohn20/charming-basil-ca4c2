@@ -52,7 +52,7 @@ sections:
     content: Start achieving your goals today!
     actions:
       - label: Contact us
-        url: 'mailto:john@buyfor.cheap'
+        url: john@buyfor.cheap
         style: primary
     actions_width: fourty
     align: center
