@@ -6,7 +6,7 @@ sections:
     subtitle: We believe Innovation shouldn't cost the consumer
     actions:
       - label: Contact Us
-        url: 'mailto:john@buyfor.US '
+        url: 'mailto:john@buyfor.cheap'
         style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
